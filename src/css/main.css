@@ -1,0 +1,16 @@
+@import "tailwind/_base.css";
+@import "tailwind/_components.css";
+@import "tailwind/_utilities.css";
+
+@import "_checkbox-radio-switch.css";
+@import "_progress.css";
+@import "_scrollbars.css";
+@import "_table.css";
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+  }
+  body {
+    font-family: 'Open Sans', sans-serif;
+  }
